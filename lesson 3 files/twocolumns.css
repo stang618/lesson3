@@ -1,0 +1,36 @@
+/*this is my styling page*/
+
+#header {
+	width: 100%;
+	text-align: center;
+	font: 50px courier;
+	background-color: grey;
+	height: 50px;
+}
+
+#sidebar {
+	display: inline;
+	width: 100px;
+	height: 1000px;
+	background-color: black;
+	float: left;
+}
+
+#link {
+	text-decoration: none;
+	font: 20px courier;
+	color: white;
+}
+
+#body {
+	display: inline;
+	float: right;
+	width: 850px;
+}
+
+#text {
+	display: inline-block;
+	width: 50%;
+	float: left;
+}
+
